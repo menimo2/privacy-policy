@@ -18,8 +18,7 @@
 
 ## יצירת קשר
 
-לשאלה על הפרטיות: [הכניסו כאן כתובת דוא״ל]
-
+לשאלה על הפרטיות: menimo2@gmail.com
 ---
 
 # Privacy Policy — Baal Kore (בעל קורא)
@@ -42,4 +41,4 @@ The app is not directed at collecting information from children. It does not ask
 
 ## Contact
 
-Privacy questions: [put your email address here]
+Privacy questions: menimo2@gmail.com
